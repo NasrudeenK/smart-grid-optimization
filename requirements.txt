@@ -1,0 +1,16 @@
+pandas>=2.0.0
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost>=2.0.0
+statsmodels
+pulp
+streamlit
+joblib
+jupyter 
+notebook
+nbformat
+jupyterlab
+ipykernel
+ipywidgets
